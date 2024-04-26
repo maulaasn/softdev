@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Ragil",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0816562115"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Maula",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"cari tau sendiri deh"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Hawa",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"cari tau sendiri deh"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Kak Depi",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"cari tau sendiri deh"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Vany",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"cari tau sendiri deh"
+    }
+  }
