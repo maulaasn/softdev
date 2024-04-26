@@ -1,36 +1,36 @@
 {
     "user1": {
       "id":1,
-      "nama":"Ragil",
-      "jenis_kelamin":"Laki-Laki",
-      "telpon":"0816562115"
+      "nama":"Maula Shahihah Nur Sa'adah",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"085701134860"
     },
 
     "user2": {
       "id":2,
-      "nama":"Maula",
-      "jenis_kelamin":"Perempuan",
-      "telpon":"cari tau sendiri deh"
+      "nama":"Rizki Aditya",
+      "jenis_kelamin":"Laki-laki",
+      "telpon":"085698531254"
     },
 
     "user3": {
       "id":3,
-      "nama":"Hawa",
+      "nama":"Lailatul Hidayah",
       "jenis_kelamin":"Perempuan",
-      "telpon":"cari tau sendiri deh"
+      "telpon":"081345310704"
     },
 
     "user4": {
       "id":4,
-      "nama":"Kak Depi",
+      "nama":"Aprilia Eka Susanti",
       "jenis_kelamin":"Perempuan",
-      "telpon":"cari tau sendiri deh"
+      "telpon":"081263802173"
     },
 
     "user5": {
       "id":5,
-      "nama":"Vany",
-      "jenis_kelamin":"Laki-Laki",
-      "telpon":"cari tau sendiri deh"
+      "nama":"Ganis Nuzul Febrianti",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"085698340336"
     }
   }
